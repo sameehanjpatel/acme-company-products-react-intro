@@ -1,0 +1,25 @@
+#listings{
+    display:flexbox;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+#productsList{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+#companiesList{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+}
+
+
+
+
+
